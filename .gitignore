@@ -1,0 +1,8 @@
+.env
+.prettierrc
+.vscode
+.git
+package-lock.json
+
+/Backend/node_modules
+/Frontend/node_modules
