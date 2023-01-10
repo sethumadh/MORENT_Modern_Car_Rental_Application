@@ -1,6 +1,8 @@
 # MORENT
 
 ### MORENT - A Modern CarRent Application
+![car](https://user-images.githubusercontent.com/63349857/211439943-30a59190-ef43-4500-a6eb-3c9490105144.png)
+
 
 MORENT is a web-based application that allows users to rent cars from a variety of locations around the world. Users can search for cars based on their desired location and rental dates, view available options, and book their rental directly through the application.
 
